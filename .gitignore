@@ -1,0 +1,10 @@
+﻿# build outputs
+*.apk
+*.aab
+*.ap_
+*.zip
+*.log
+.gradle/
+build/
+local.properties
+.DS_Store
